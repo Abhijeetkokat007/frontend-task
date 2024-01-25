@@ -1,0 +1,28 @@
+.nav{
+/* width: Hug (517px); */
+/* height: Hug (108px); */
+height:108px;
+top: 19px ;
+left: 683px ;
+gap: 50px ;
+background: #951313;
+font-size: 20px;
+}
+.pad-start{
+    padding-left:200px ;
+}
+.btn-nav {
+    border-radius: 20px;
+    border: 2px solid #722ED1;
+    padding:  6px 30px;
+    background-color: white;
+    color: #722ED1;
+    
+    
+}
+
+@media screen and (max-width: 768px) {
+    .pad-start{
+        padding-left:20px ;
+    }  
+}

@@ -5,18 +5,12 @@ import profile from './images/profile.svg';
 import tonkean from './images/tonkean.svg';
 import bigspring from './images/bigspring.svg';
 import './App.css';
+import Navbar from './component/Navbar/Navbar';
+import Header from './component/Header';
 
 function App() {
   return (
-    <div className="App">
-      <img src={logo} alt='logo' />
-      <img src={img1} alt='logo' />
-      <img src={img2} alt='logo' />
-      <img src={profile} alt='logo' />
-      <img src={tonkean} alt='logo' />
-      <img src={bigspring} alt='logo' />
-     hiii
-    </div>
+    
   );
 }
 

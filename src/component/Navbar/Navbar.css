@@ -15,10 +15,16 @@ font-size: 20px;
     border-radius: 20px;
     border: 2px solid #722ED1;
     padding:  6px 30px;
-    background-color: white;
-    color: #722ED1;
-    
-    
+    background-color: transparent;
+    color: #722ED1; 
+}
+.btn-nav:hover{
+    border-radius: 20px;
+    border: 2px solid #722ED1;
+    padding:  6px 30px;
+    background-color: #722ED1;
+    color: white;  
+    cursor: pointer;
 }
 
 @media screen and (max-width: 768px) {

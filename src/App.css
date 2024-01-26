@@ -3,17 +3,40 @@
 }
 
 .section-bg {
-  padding: 120px 0;
+  padding: 20px 0;
   color: #fff;
 }
 .section-bg:before {
   content: "";
+  /* height: fit-content; */
   background: linear-gradient(180deg, #FFFFFF 0%, #E2F1FF 100%);
   position: absolute;
   bottom: 100px;
-  top: -40px;
+  top: 110px;
   left: 0;
   right: 0;
-  transform: skewY(-3deg);
+  transform: skewY(-5deg);
+ z-index: 1;
 }
+
+.sub-container-app{
+  position: absolute;
+  z-index: 3;
+  margin-left: auto ;
+ 
+}
+
+.tri{
+  display: flex;
+  justify-content: center;
+  
+  /* margin-left: auto !important;
+  margin-right: auto !important; */
+}
+/* section {
+  padding: 60px 0;
+  overflow: hidden;
+  position: relative;
+  display: block;
+} */
 

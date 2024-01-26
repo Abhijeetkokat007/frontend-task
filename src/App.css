@@ -49,9 +49,22 @@ font-size: 32px;
 font-weight: bold;
 line-height: 40px;
 letter-spacing: 0em;
-text-align: center;
+
 
 }
+.light-text-p{
+  
+  /* border: 1px solid black; */
+  margin: 20px auto;
+  color:  rgba(137, 137, 162, 1);
+  font-size: 16px;
+  font-weight: 500;
+}
+.max-height-600{
+  max-width: 600px;
+}
+
+
 
 @media screen and (max-width: 768px) {
   .section-bg:before {

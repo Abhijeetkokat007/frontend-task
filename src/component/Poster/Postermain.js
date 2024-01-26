@@ -9,9 +9,7 @@ function Postermain() {
     <div>
       <section className='mt-3'>
         <div className='nav-index'><Navbar /></div>
-
         <div className='section-bg'>
-
           <div className='tri'>
             <div className='mt-5 sub-container-app d-flex justify-content-evenly align-items-center flex-wrap-reverse '>
               <div className=' text-div'>
@@ -25,9 +23,6 @@ function Postermain() {
             </div>
           </div>
         </div>
-
-
-
       </section>
 
       {/* <section >

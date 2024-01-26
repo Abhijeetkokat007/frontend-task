@@ -36,16 +36,16 @@ function Navbar() {
           </ul>
         </li>
         </li>
-        <li class="nav-item mt-2">
+        <li class="nav-item mt-2 ms-4">
           <a class="nav-link" href="#">Pricing</a>
         </li>
-        <li class="nav-item mt-2">
+        <li class="nav-item mt-2 ms-4">
           <a class="nav-link" href="#">Contact</a>
         </li>
-        <li class="nav-item mt-2">
+        <li class="nav-item mt-2 ms-4">
           <a class="nav-link" href="#">Login</a>
         </li>
-        <li class="nav-item">
+        <li class="nav-item ms-4">
           <a class="nav-link" href="#">
           <button type="button" class="btn-nav ">Start Free Trial</button>
           </a>

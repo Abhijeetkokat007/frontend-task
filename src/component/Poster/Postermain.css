@@ -28,7 +28,7 @@ color: rgb(101, 101, 101);
 .btn-post-trial{
     border-radius: 20px;
     border: 2px solid white;
-    padding:  6px 30px;
+    padding:  6px 50px;
     background-color: white;
     color: #722ED1;
 }
@@ -46,6 +46,9 @@ color: rgb(101, 101, 101);
     width: 400px;
     /* border: 2px solid black; */
 }
+.nav-index{
+    z-index: 2;
+} 
 @media screen and (max-width: 768px) {
     .pad{
         padding:0px ;

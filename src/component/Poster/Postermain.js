@@ -25,24 +25,7 @@ function Postermain() {
         </div>
       </section>
 
-      {/* <section >
-       
-
-       <div className='sub-container-app d-flex justify-content-evenly align-items-center pad'>
-           <div className='p-3'>
-           <button className='btn-post-version'> <img src={starimg} alt='logo' />  v3.1 released. Learn more </button>
-               <h1 className='post-hedding'>Your data with real-time analytics</h1>
-               <p className='small-text-post'>Harness the potential of Big Data Analytics & Cloud Services and become a data-driven organization with Needle tail</p>
-               <button className='btn-post-start'> Start Free Trial </button>
-               <button className='btn-post-trial'> Learn More </button>
-           </div>
-       <img src={img1} alt='logo' /> 
-       
-       </div>
-           
-         
-        
-       </section> */}
+      
     </div>
   )
 }

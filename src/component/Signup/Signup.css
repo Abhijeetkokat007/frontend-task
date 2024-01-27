@@ -1,92 +1,76 @@
-.signup-main-container{
-    padding:30px 30px;
-    width: fit-content;
-    background-color: rgba(166, 166, 251, 0.12);
-    margin-top: 200px;
-    padding-top: 0px;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 4px;
+.signup-main-container {
+  padding: 30px 30px;
+  width: fit-content;
+  background-color: rgba(166, 166, 251, 0.12);
+  margin-top: 200px;
+  padding-top: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 4px;
 }
-.signup-contaiter{
-    width: 400px;
-height: Hug (494px);
-margin-top: -10px;
-/* top: 3139px; */
-left: 746px;
-padding: 20px;
-border-radius: 8px ;
-gap: 16px ;
-margin-left: auto;
-margin-right: auto;
-border: 1px solid rgb(205, 201, 201);
-background: rgba(255, 255, 255, 1);
-
-/* box-shadow: 10px 50px 0px 20px ; */
-
+.signup-contaiter {
+  width: 400px;
+  height: Hug (494px);
+  margin-top: -10px;
+  left: 746px;
+  padding: 20px;
+  border-radius: 8px;
+  gap: 16px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid rgb(205, 201, 201);
+  background: rgba(255, 255, 255, 1);
 }
 
-.btn-tryfree{
-    box-shadow: 0px 3px 6px 0px rgba(0, 0, 0, 0.16);
-    width: 344px;
-    height: 48px;
-    top: 80px;
-    left: 42px;
-    background-color: #0000ff;
-    color: white;
-    border-radius: 4px;
-    border: none;
+.btn-tryfree {
+  box-shadow: 0px 3px 6px 0px rgba(0, 0, 0, 0.16);
+  width: 344px;
+  height: 48px;
+  top: 80px;
+  left: 42px;
+  background-color: #0000ff;
+  color: white;
+  border-radius: 4px;
+  border: none;
 }
-.input-table{
-    /* border: 2px solid rgb(56, 55, 55); */
-    /* background: rgba(217, 217, 217, 1); */
-    width: 344px;
-    height: 48px;
-    padding: 14px;
-    border-radius: 4px;
-    border: 1px;
-    gap: 10px;
-    border: 2px solid rgba(217, 217, 217, 1);
+.input-table {
+  width: 344px;
+  height: 48px;
+  padding: 14px;
+  border-radius: 4px;
+  border: 1px;
+  gap: 10px;
+  border: 2px solid rgba(217, 217, 217, 1);
 }
-.line-cont{
-    width: Hug (428px);
-height: Hug (494px);
-top: 3139px;
-left: 746px;
-
-
-
-border: 1px solid black;
-/* background: rgba(255, 255, 255, 1);
-
-box-shadow: 4px 4px 12px 0px rgba(137, 137, 162, 0.12); */
-
+.line-cont {
+  width: Hug (428px);
+  height: Hug (494px);
+  top: 3139px;
+  left: 746px;
+  border: 1px solid black;
 }
-.text-login{
-    font-family: Metropolis;
-font-size: 14px;
-font-weight: 500;
-line-height: 14px;
-letter-spacing: 0em;
-text-align: center;
-width: 217px;
-height: 14px;
-margin: 2px auto;
-
+.text-login {
+  font-family: Metropolis;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 14px;
+  letter-spacing: 0em;
+  text-align: center;
+  width: 217px;
+  height: 14px;
+  margin: 2px auto;
 }
 
-.col-primay{
-   color: #0000ff;
-   cursor: pointer; 
+.col-primay {
+  color: #0000ff;
+  cursor: pointer;
 }
-.text-signup{
-    font-family: Metropolis;
-font-size: 24px;
-font-weight: 700;
-line-height: 32px;
-letter-spacing: 0em;
-text-align: center;
-color: rgba(22, 6, 55, 1);
-
-
+.text-signup {
+  font-family: Metropolis;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 32px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: rgba(22, 6, 55, 1);
 }

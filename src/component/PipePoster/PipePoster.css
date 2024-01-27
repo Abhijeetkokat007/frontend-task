@@ -1,8 +1,5 @@
 @media screen and (max-width: 768px) {
-    .pipe {
-  
-      width: 350px;
-      
-    }
+  .pipe {
+    width: 350px;
   }
-  
+}

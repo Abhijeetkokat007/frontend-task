@@ -5,7 +5,7 @@ import './PipePoster.css';
 const PipePoster = () => {
     return (
         <div className=' container d-flex justify-content-evenly align-items-center flex-wrap mt-5 mb-5'>
-           
+
             <div >
                 <button className='btn-post-version'> <img src={compassimg} alt='logo' />  For Product Team </button>
                 <h1 className='text-post-2 mt-4'>Data-driven pipelines in minutes</h1>

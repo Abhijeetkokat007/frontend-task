@@ -1,38 +1,36 @@
-.nav{
-/* width: Hug (517px); */
-/* height: Hug (108px); */
-height:108px;
-top: 19px ;
-left: 683px ;
-gap: 50px ;
-background: #951313;
-font-size: 20px;
+.nav {
+  height: 108px;
+  top: 19px;
+  left: 683px;
+  gap: 50px;
+  background: #951313;
+  font-size: 20px;
 }
-.pad-start{
-    padding-left:330px ;
+.pad-start {
+  padding-left: 330px;
 }
 
 .btn-nav {
-    border-radius: 20px;
-    border: 2px solid #722ED1;
-    padding:  6px 30px;
-    background-color: transparent;
-    color: #722ED1; 
+  border-radius: 20px;
+  border: 2px solid #722ed1;
+  padding: 6px 30px;
+  background-color: transparent;
+  color: #722ed1;
 }
-.btn-nav:hover{
-    border-radius: 20px;
-    border: 2px solid #722ED1;
-    padding:  6px 30px;
-    background-color: #722ED1;
-    color: white;  
-    cursor: pointer;
+.btn-nav:hover {
+  border-radius: 20px;
+  border: 2px solid #722ed1;
+  padding: 6px 30px;
+  background-color: #722ed1;
+  color: white;
+  cursor: pointer;
 }
 
 @media screen and (max-width: 768px) {
-    .pad-start{
-        padding-left:20px ;
-    }  
-    .curcer{
-        cursor: pointer;
-    }
+  .pad-start {
+    padding-left: 20px;
+  }
+  .curcer {
+    cursor: pointer;
+  }
 }

@@ -18,6 +18,7 @@ import Header from './component/Header';
 import Postermain from './component/Poster/Postermain';
 import Postercircle from './component/Postercircle/Postercircle';
 import MessagePoster from './component/MessagePoster/MessagePoster';
+import Footer from './component/Footer/Footer';
 
 function App() {
   return (
@@ -47,6 +48,7 @@ function App() {
 <Postercircle/>
 <PipePoster/>
 <MessagePoster/>
+<Footer/>
     </div>
   );
 }

@@ -1,0 +1,56 @@
+.main-container{
+    background: rgba(251, 252, 255, 1);
+    margin-top: 150px;
+    padding: 20px;
+}
+.container-1 {
+  width: 209px;
+  height: 222.01px;
+ 
+
+  /* border: 1px solid black; */
+}
+.foot-description {
+  width: 209px;
+  height: 120px;
+  top: 62px;
+  left: 0px;
+  font-family: Metropolis;
+  font-size: 17px;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: rgba(22, 6, 55, 1);
+}
+.product-name{
+    font-family: Metropolis;
+font-size: 19px;
+font-weight: 700;
+line-height: 16px;
+letter-spacing: 0em;
+text-align: left;
+color: rgba(22, 6, 55, 1);
+}
+.product-links{
+    font-family: Metropolis;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(22, 6, 55, 1);
+}
+.input-box{
+    width: 180px;
+height: 40px;
+top: 38px;
+left: 768px;
+border: none;
+box-shadow:  1px 2px 5px 0 rgb(239, 237, 237) ;
+}
+.send-icon{
+   margin-left: -30px;
+   cursor: pointer;
+   
+}

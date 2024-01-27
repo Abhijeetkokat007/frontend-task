@@ -11,6 +11,7 @@ font-size: 20px;
 .pad-start{
     padding-left:330px ;
 }
+
 .btn-nav {
     border-radius: 20px;
     border: 2px solid #722ED1;
@@ -31,4 +32,7 @@ font-size: 20px;
     .pad-start{
         padding-left:20px ;
     }  
+    .curcer{
+        cursor: pointer;
+    }
 }

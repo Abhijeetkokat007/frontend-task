@@ -23,50 +23,43 @@ function Footer() {
 
             <div className='m-5'>
                 <p className='product-name'>Product</p>
-                <a class="nav-link m-1 product-links" href="#">Login</a>
-                <a class="nav-link m-1 product-links" href="#">Login</a>
-                <a class="nav-link m-1 product-links " href="#">Login</a>
-                <a class="nav-link m-1 product-links " href="#">Login</a>
-                <a class="nav-link m-1 product-links" href="#">Login</a>
-                <a class="nav-link m-1 product-links" href="#">Login</a>
-                <a class="nav-link m-1 product-links" href="#">Login</a>
-                <a class="nav-link m-1 product-links" href="#">Login</a>
+                <a class="nav-link m-1 product-links" href="#">Connection</a>
+                <a class="nav-link m-1 product-links" href="#">Protocol</a>
+                <a class="nav-link m-1 product-links " href="#">Persons</a>
+                <a class="nav-link m-1 product-links " href="#">Integrations</a>
+                <a class="nav-link m-1 product-links" href="#">Catalog</a>
+                <a class="nav-link m-1 product-links" href="#">Pricing</a>
+                <a class="nav-link m-1 product-links" href="#">Security</a>
+                <a class="nav-link m-1 product-links" href="#">GDPR</a>
             </div>
 
             <div className='m-5'>
-                <p className='product-name'>Product</p>
-                <a class="nav-link m-1 product-links" href="#">Login</a>
-                <a class="nav-link m-1 product-links" href="#">Login</a>
-                <a class="nav-link m-1 product-links " href="#">Login</a>
-                <a class="nav-link m-1 product-links " href="#">Login</a>
-                <a class="nav-link m-1 product-links" href="#">Login</a>
-                <a class="nav-link m-1 product-links" href="#">Login</a>
-                <a class="nav-link m-1 product-links" href="#">Login</a>
-                <a class="nav-link m-1 product-links" href="#">Login</a>
+                <p className='product-name'>For Devlopers</p>
+                <a class="nav-link m-1 product-links" href="#">Docs</a>
+                <a class="nav-link m-1 product-links" href="#">API</a>
+                <a class="nav-link m-1 product-links " href="#">Open Source</a>
+                <a class="nav-link m-1 product-links " href="#">Engineering Team</a>
+           
             </div>
 
             <div className='m-5'>
-                <p className='product-name'>Product</p>
-                <a class="nav-link m-1 product-links" href="#">Login</a>
-                <a class="nav-link m-1 product-links" href="#">Login</a>
-                <a class="nav-link m-1 product-links " href="#">Login</a>
-                <a class="nav-link m-1 product-links " href="#">Login</a>
-                <a class="nav-link m-1 product-links" href="#">Login</a>
-                <a class="nav-link m-1 product-links" href="#">Login</a>
-                <a class="nav-link m-1 product-links" href="#">Login</a>
-                <a class="nav-link m-1 product-links" href="#">Login</a>
+                <p className='product-name'>Company</p>
+                <a class="nav-link m-1 product-links" href="#">Career</a>
+                <a class="nav-link m-1 product-links" href="#">Blog</a>
+                <a class="nav-link m-1 product-links " href="#">Press</a>
+               
             </div>
 
             <div className='m-5'>
-                <p className='product-name'>Product</p>
-                <a class="nav-link m-1 product-links" href="#">Login</a>
-                <a class="nav-link m-1 product-links" href="#">Login</a>
-                <a class="nav-link m-1 product-links " href="#">Login</a>
-                <a class="nav-link m-1 product-links " href="#">Login</a>
-                <a class="nav-link m-1 product-links" href="#">Login</a>
-                <a class="nav-link m-1 product-links" href="#">Login</a>
-                <a class="nav-link m-1 product-links" href="#">Login</a>
-                <a class="nav-link m-1 product-links" href="#">Login</a>
+                <p className='product-name'>Suport</p>
+                <a class="nav-link m-1 product-links" href="#">Help Center</a>
+                <a class="nav-link m-1 product-links" href="#">Contact Us</a>
+                <a class="nav-link m-1 product-links " href="#">Security</a>
+                <a class="nav-link m-1 product-links " href="#">Bulletins</a>
+                <a class="nav-link m-1 product-links" href="#">Documentation</a>
+                <a class="nav-link m-1 product-links" href="#">Partner</a>
+                <a class="nav-link m-1 product-links" href="#">Portal</a>
+                
             </div>
 
             <div className='m-5'>

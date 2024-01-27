@@ -52,5 +52,14 @@ color: rgb(101, 101, 101);
 @media screen and (max-width: 768px) {
     .pad{
         padding:0px ;
-    }  
+    } 
+    .btn-post-version{
+        border-radius: 20px;
+        border: none;
+        padding:  6px 30px;
+        background-color: #722ed10c;
+        color: #722ED1;
+        text-align: center;
+        margin: 10px auto;
+    } 
 }

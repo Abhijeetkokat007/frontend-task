@@ -75,7 +75,7 @@ letter-spacing: 0em;
   .section-bg:before {
     content: "";
     /* height: fit-content; */
-    background: linear-gradient(180deg, #ffffff 0%, #e2f1ff 100%);
+    background: transparent;
     position: absolute;
     bottom: 100px;
     top: 120px;
@@ -84,4 +84,9 @@ letter-spacing: 0em;
     transform: skewY(-5deg);
     z-index: 1;
   }
+  .card-poster{
+    margin-top: 700px;
+    margin-bottom: 50px;
+  }
+  
 }

@@ -23,7 +23,7 @@ export default function MessagePoster() {
                 <img src={shake} className='m-3' alt='logo' />
             </div> */}
 
-            <section className=''>
+            <section className='mt-5 mb-5'>
                 <div className='foo'>
                 <div className='container-msg text-center '>
                 <p className='text-msg-poster  margin-auto' margin-auto>"What I love about Qubly is the easy way we can collaborate even if there is a lot of people involved in the process"</p>

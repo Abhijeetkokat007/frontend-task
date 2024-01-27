@@ -64,6 +64,11 @@ letter-spacing: 0em;
   max-width: 600px;
 }
 
+.card-poster{
+  margin-top: 600px;
+  margin-bottom: 50px;
+}
+
 
 
 @media screen and (max-width: 768px) {

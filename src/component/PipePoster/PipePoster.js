@@ -4,7 +4,7 @@ import compassimg from './../../images/compass-img.svg'
 import './PipePoster.css';
 const PipePoster = () => {
     return (
-        <div className=' container d-flex justify-content-evenly align-items-center flex-wrap'>
+        <div className=' container d-flex justify-content-evenly align-items-center flex-wrap mt-5 mb-5'>
            
             <div >
                 <button className='btn-post-version'> <img src={compassimg} alt='logo' />  For Product Team </button>

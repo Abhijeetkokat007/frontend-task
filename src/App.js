@@ -30,7 +30,7 @@ function App() {
 
 <Postermain/>
 
-<div className='text-center p-5'>
+<div className='text-center card-poster p-5'>
 
 <button className='btn-post-version mb-4'> <img src={eyesimg } alt='logo' />  Why Qubly </button>
 <h1 className='text-post-2 text-center'>Get actionable insights from Big Data in 3 steps</h1>
